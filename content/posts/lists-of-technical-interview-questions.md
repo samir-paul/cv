@@ -1,19 +1,37 @@
 ---
-layout: post
-title: Lists of Technical Interview Questions
-description: Lists of Technical Interview Questions
-image:
-  path: /assets/img/list-of-interview-questions-blog-images.webp
-  width: 792
-  height: 198
-  alt: Lists of Technical Interview Questions
-categories: [Technical Interview]
+title: "Lists of Technical Interview Questions"
+summary: "Lists of Technical Interview Questions"
+date: 2022-10-04T15:58:26+08:00
+description: "Lists of Technical Interview Questions"
 tags: [blog, coding, computer-science,android,angularjs,angular,backbonejs,cpp,c,dotnet,clojure,css,django,elastic,emberjs,erlang,golang,graphql,html,ionic,ios,java,javascript,jquery,front-end,knockoutjs,less,lisp,nodejs,objective-c,php,python,reactjs,rails,ruby,rust,sass,scala,shell,spark,swift,vuejs,wordpress,typescript]
-published: true
-sitemap: true
-pin: false
----
+cover:
+  image: "assets/img/list-of-interview-questions-blog-images.webp"
+  alt: "Lists of Technical Interview Questions"
+  caption: "Lists of Technical Interview Questions"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
+images:
+  - assets/img/list-of-interview-questions-blog-images.webp
+  - assets/img/list-of-interview-questions-blog-images.webp
+
+# videos:
+#   - filename01.mov
+#   - filename02.avi
+
+date: 2022-10-04T15:58:26+08:00
+lastmod: 2022-03-04T15:58:26+08:00
+draft: false
+author: "Samir Paul"
+authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
+license: "CC BY 4.0"
+draft: false
+
+# editPost:
+#   URL: "https://github.com/SamirPaul1/blog"
+#   Text: "Suggest Changes" # edit text
+#   appendFilePath: true # to append file path to Edit link
+
+---
 
 
 

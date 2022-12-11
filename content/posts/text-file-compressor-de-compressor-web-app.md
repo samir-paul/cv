@@ -1,18 +1,39 @@
 ---
-layout: post
-title: Text File Compressor De-compressor Web App
-description: Text File Compressor De-compressor Web App
-image:
-  path: /assets/img/text-file-compressor-de-compressor-web-app-preview.webp
-  width: 661
-  height: 132
-  alt: Text File Compressor De-compressor Web App
-categories: [Projects]
+title: "Text File Compressor De-compressor Web App"
+summary: "Text File Compressor De-compressor Web App"
+date: 2022-10-04T15:58:26+08:00
+description: "Text File Compressor De-compressor Web App"
 tags: [blog, coding, computer-science, javascript, project, css, html, encoding, encoder, huffman, huffman-coding, huffman-compression-algorithm, txt, lossless-compression-algorithm, file-compression, huffman-encoder, huffman-decoder, huffman-encoding, txt-encode, txt-decode, lossless-compression, github, projects, web-development, lossless-data-compression, online-file-compressor, txt-compressor, algorithm]
-published: true
-sitemap: true
-pin: false
+cover:
+  image: "assets/img/text-file-compressor-de-compressor-web-app-preview.webp"
+  alt: "Text File Compressor De-compressor Web App"
+  caption: "Text File Compressor De-compressor Web App"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
+
+images:
+  - assets/img/text-file-compressor-de-compressor-web-app-preview.webp
+  - assets/img/text-file-compressor-de-compressor-web-app-preview.webp
+
+# videos:
+#   - filename01.mov
+#   - filename02.avi
+
+date: 2022-10-04T15:58:26+08:00
+lastmod: 2022-03-04T15:58:26+08:00
+draft: false
+author: "Samir Paul"
+authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
+license: "CC BY 4.0"
+draft: false
+
+# editPost:
+#   URL: "https://github.com/SamirPaul1/blog"
+#   Text: "Suggest Changes" # edit text
+#   appendFilePath: true # to append file path to Edit link
+
 ---
+
+
 
 
 - This webapp uses Huffman Coding for Text Compression and De-compression.
@@ -42,18 +63,18 @@ pin: false
 
 
 
-- [x] Landing Page:
+- [x] Landing Page: 
 
-![landing-page](/assets/img/text-file-compressor-de-compressor-web-app-landing-page.png) 
+![landing-page](assets/img/text-file-compressor-de-compressor-web-app-landing-page.png) 
 
 - [x] Upload File
 
-![step1](/assets/img/text-file-compressor-de-compressor-web-app-step1.png) 
+![step1](assets/img/text-file-compressor-de-compressor-web-app-step1.png) 
 
 
 - [x] Select Action (Compress / De-compress)
 
-![step2](/assets/img/text-file-compressor-de-compressor-web-app-step2.png) 
+![step2](assets/img/text-file-compressor-de-compressor-web-app-step2.png) 
 
 
 - [x] Wait for File Download
@@ -61,20 +82,20 @@ pin: false
 
     * Compression - Compression Ratio is also displayed 
 
-    ![compression](/assets/img/text-file-compressor-de-compressor-web-app-step3.png)
+    ![compression](assets/img/text-file-compressor-de-compressor-web-app-step3.png)
     
     * De-compression
 
-    ![decompression](/assets/img/text-file-compressor-de-compressor-web-app-decompression.png)
+    ![decompression](assets/img/text-file-compressor-de-compressor-web-app-decompression.png)
 
 * Additional Instructions and Warnings are provided if the above steps are not followed correctly
 
-![noFile](/assets/img/text-file-compressor-de-compressor-web-app-nofile.png) 
+![noFile](assets/img/text-file-compressor-de-compressor-web-app-nofile.png) 
 
-![smallFile](/assets/img/text-file-compressor-de-compressor-web-app-verysmallfile.png)
+![smallFile](assets/img/text-file-compressor-de-compressor-web-app-verysmallfile.png)
 
 
 
 * About the tecnique of Lossless Data Compression with Huffman coding.
 
-![info1](/assets/img/text-file-compressor-de-compressor-web-app-info.jpeg) 
+![info1](assets/img/text-file-compressor-de-compressor-web-app-info.jpeg) 

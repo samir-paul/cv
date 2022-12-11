@@ -1,70 +1,37 @@
 ---
 title: "Complete Computer Science Study Plan to Become a Software Engineer"
 summary: Complete Computer Science Study Plan to Become a Software Engineer
+date: 2022-10-04T15:58:26+08:00
+description: "Complete Computer Science Study Plan to Become a Software Engineer"
+tags: [blog, coding, computer-science, study-plan, software-engineer, developer]
 cover:
   image: "assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp"
   alt: "Complete Computer Science Study Plan to Become a Software Engineer"
   caption: "Complete Computer Science Study Plan to Become a Software Engineer"
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
+
+images:
+  - assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp
+  - assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp
+
+# videos:
+#   - filename01.mov
+#   - filename02.avi
 
 date: 2022-10-04T15:58:26+08:00
 lastmod: 2022-03-04T15:58:26+08:00
 draft: false
 author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
-description: "Learn how to design systems at scale and prepare for system design interviews"
 license: "CC BY 4.0"
-tags: [blog, coding, computer-science, study-plan, software-engineer, developer]
-author: "Samir Paul"
 draft: false
 
-featuredImage: "assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp"
-featuredImagePreview: "assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp"
+# editPost:
+#   URL: "https://github.com/SamirPaul1/blog"
+#   Text: "Suggest Changes" # edit text
+#   appendFilePath: true # to append file path to Edit link
 
-hiddenFromHomePage: false
-hiddenFromSearch: false
-twemoji: false
-lightgallery: true
-ruby: true
-fraction: true
-fontawesome: true
-linkToMarkdown: true
-rssFullText: true
-
-toc:
-  enable: true
-  auto: true
-code:
-  copy: true
-  maxShownLines: 50
-math:
-  enable: false
-  # ...
-mapbox:
-  # ...
-share:
-  enable: true
-  # ...
-comment:
-  enable: true
-  # ...
-library:
-  css:
-    # someCSS = "some.css"
-    # located in "assets/"
-    # Or
-    # someCSS = "https://cdn.example.com/some.css"
-  js:
-    # someJS = "some.js"
-    # located in "assets/"
-    # Or
-    # someJS = "https://cdn.example.com/some.js"
-seo:
-  images: ["assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp"]
 ---
-
-
-
 
 
 

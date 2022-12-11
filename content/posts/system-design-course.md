@@ -1,18 +1,38 @@
 ---
-layout: post
-title: System Design Course
-description: System Design Course
-image: 
-  path: /assets/img/Getting-Started-with-System-Design-samirpaulb-assets.webp
-  width: 661
-  height: 132
-  alt: System Design Course
-categories: [System Design]
+title: "System Design Course"
+summary: "System Design Course"
+date: 2022-10-04T15:58:26+08:00
+description: "System Design Course"
 tags: [system-design,distributed-systems,hashing,caching,sql,cdn,storage,rest-api,scalability,proxy-server,databases,design-patterns,transactions,sharding,nosql-database,design-system,database-replication,design-interviews,cap-theorem,system-design-interviews,api-gateway,rest,graphql,grpc,message-queues,monoliths,microservices, coding]
-published: true
-sitemap: true
-pin: false
+cover:
+  image: "assets/img/Getting-Started-with-System-Design-samirpaulb-assets.webp"
+  alt: "System Design Course"
+  caption: "System Design Course"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
+
+images:
+  - assets/img/Getting-Started-with-System-Design-samirpaulb-assets.webp
+  - assets/img/Getting-Started-with-System-Design-samirpaulb-assets.webp
+
+# videos:
+#   - filename01.mov
+#   - filename02.avi
+
+date: 2022-10-04T15:58:26+08:00
+lastmod: 2022-03-04T15:58:26+08:00
+draft: false
+author: "Samir Paul"
+authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
+license: "CC BY 4.0"
+draft: false
+
+# editPost:
+#   URL: "https://github.com/SamirPaul1/blog"
+#   Text: "Suggest Changes" # edit text
+#   appendFilePath: true # to append file path to Edit link
+
 ---
+
 
 
 # System Design Course

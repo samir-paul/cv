@@ -1,18 +1,39 @@
 ---
-layout: post
-title: Data Structures and Algorithms for Coding Interview
-description: Data Structures and Algorithms for Coding Interview
-image: 
-  path: /assets/img/dsa-in-python.jpg 
-  width: 661
-  height: 132
-  alt: Data Structures and Algorithms for Coding Interview
-categories: [Data Structures and Algorithms]
+title: "Data Structures and Algorithms for Coding Interview"
+summary: "Data Structures and Algorithms for Coding Interview"
+date: 2022-10-04T15:58:26+08:00
+description: "Data Structures and Algorithms for Coding Interview"
 tags: [blog, coding, computer-science, data-structures-and-algorithms-for-coding-interview,data-structures,algorithms,interview,coding-interview,dsalgo,leetcode,gfg,geeksforgeeks,dynamic-programming,sorting-algorithms,linkedList,object-oriented-programming,binary-trees,graph-algorithms,heap,matrix,trie,binary-search,backtracking,stack,queue,greedy,string,bit-manipulation,array,hashmap,dfs,bfs,two-pointers,math,recursion,codechef,codeforces,hackerrank,dsa]
-published: true
-sitemap: true
-pin: false
+cover:
+  image: "assets/img/dsa-in-python.jpg"
+  alt: "Data Structures and Algorithms for Coding Interview"
+  caption: "Data Structures and Algorithms for Coding Interview"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
+
+images:
+  - assets/img/dsa-in-python.jpg
+  - assets/img/dsa-in-python.jpg
+
+# videos:
+#   - filename01.mov
+#   - filename02.avi
+
+date: 2022-10-04T15:58:26+08:00
+lastmod: 2022-03-04T15:58:26+08:00
+draft: false
+author: "Samir Paul"
+authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
+license: "CC BY 4.0"
+draft: false
+
+# editPost:
+#   URL: "https://github.com/SamirPaul1/blog"
+#   Text: "Suggest Changes" # edit text
+#   appendFilePath: true # to append file path to Edit link
+
 ---
+
+
 
 
 
@@ -54,7 +75,7 @@ In various folders of the above topics, you can find questions and concepts rela
 - There is a collection of books and pdfs on various important computer science fundamentals in the [**BOOKS-and-PDFs**](https://github.com/SamirPaul1/DSAlgo/tree/main/BOOKS-and-PDFs) directory.📚
 
 
-![DSAlgo repo](/assets/img/repository-image-dsalgo-samirpaul1-leetcode-post.jpeg "DSAlgo repository")
+![DSAlgo repo](assets/img/repository-image-dsalgo-samirpaul1-leetcode-post.jpeg "DSAlgo repository")
 
 I am continuously trying to improve this repository by adding new questions and concepts related to the respective topic. Please feel free to contribute to this repository.💻
 
@@ -62,7 +83,7 @@ I am continuously trying to improve this repository by adding new questions and 
 <b>View this repository with improved user experience▶️<a href="https://samirpaul1.github.io/DSAlgo">https://samirpaul.in/DSAlgo</a></b>🚀
 </div>
 
-![DSA Online VSCode](/assets/img/samirpaul.in-DSAlgo-demo.png "DSA Online VSCode")
+![DSA Online VSCode](assets/img/samirpaul.in-DSAlgo-demo.png "DSA Online VSCode")
 
 **Things you can contribute to:**
 - Update the existing solution with a better one (better complexity).

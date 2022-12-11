@@ -1,18 +1,39 @@
 ---
-layout: post
-title: Leetcode Solutions Cheatsheet
-description: Leetcode Solutions Cheatsheet
-image:
-  path: /assets/img/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp
-  width: 661
-  height: 132
-  alt: Leetcode Solutions Cheatsheet
-categories: [LeetCode]
+title: "Leetcode Solutions Cheatsheet"
+summary: "Leetcode Solutions Cheatsheet"
+date: 2022-10-04T15:58:26+08:00
+description: "Leetcode Solutions Cheatsheet"
 tags: [blog, coding, computer-science,leetcode,leetcode-solutions,leetcode-solutions-cheetsheet,leetcode-cheetsheet,important-leetcode-solutions-markdown,markdown,important-leetcode-questions,java,python,cpp]
-published: true
-sitemap: true
-pin: false
+cover:
+  image: "assets/img/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp"
+  alt: "Leetcode Solutions Cheatsheet"
+  caption: "Leetcode Solutions Cheatsheet"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
+
+images:
+  - assets/img/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp
+  - assets/img/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp
+
+# videos:
+#   - filename01.mov
+#   - filename02.avi
+
+date: 2022-10-04T15:58:26+08:00
+lastmod: 2022-03-04T15:58:26+08:00
+draft: false
+author: "Samir Paul"
+authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
+license: "CC BY 4.0"
+draft: false
+
+# editPost:
+#   URL: "https://github.com/SamirPaul1/blog"
+#   Text: "Suggest Changes" # edit text
+#   appendFilePath: true # to append file path to Edit link
+
 ---
+
+
 
 
 

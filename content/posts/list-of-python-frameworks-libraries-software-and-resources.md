@@ -1,19 +1,37 @@
 ---
-layout: post
-title: List of Python Frameworks Libraries Software and Resources
-description: List of Python Frameworks Libraries Software and Resources
-image:
-  path: /assets/img/list-of-python-frameworks-libraries-software-and-resources-banner-image.jpg 
-  width: 661
-  height: 132
-  alt: List of Python Frameworks Libraries Software and Resources
-categories: [Python]
+title: "List of Python Frameworks Libraries Software and Resources"
+summary: "List of Python Frameworks Libraries Software and Resources"
+date: 2022-10-04T15:58:26+08:00
+description: "List of Python Frameworks Libraries Software and Resources"
 tags: [blog, coding, computer-science,python,python-frameworks,python-libraries,python-softwares,python-resources]
-published: true
-sitemap: true
-pin: false
----
+cover:
+  image: "assets/img/list-of-python-frameworks-libraries-software-and-resources-banner-image.jpg"
+  alt: "List of Python Frameworks Libraries Software and Resources"
+  caption: "List of Python Frameworks Libraries Software and Resources"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
+images:
+  - assets/img/list-of-python-frameworks-libraries-software-and-resources-banner-image.jpg
+  - assets/img/list-of-python-frameworks-libraries-software-and-resources-banner-image.jpg
+
+# videos:
+#   - filename01.mov
+#   - filename02.avi
+
+date: 2022-10-04T15:58:26+08:00
+lastmod: 2022-03-04T15:58:26+08:00
+draft: false
+author: "Samir Paul"
+authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
+license: "CC BY 4.0"
+draft: false
+
+# editPost:
+#   URL: "https://github.com/SamirPaul1/blog"
+#   Text: "Suggest Changes" # edit text
+#   appendFilePath: true # to append file path to Edit link
+
+---
 
 
 

@@ -1,18 +1,38 @@
 ---
-layout: post
-title: Online PDF Compression Tool
-description: Online PDF Compression Tool
-image:
-  path: /assets/img/online-pdf-compression-tool-blog-banner.webp
-  width: 661
-  height: 132
-  alt: Online PDF Compression Tool
-categories: [Projects]
+title: "Online PDF Compression Tool"
+summary: "Online PDF Compression Tool"
+date: 2022-10-04T15:58:26+08:00
+description: "Online PDF Compression Tool"
 tags: [blog, coding, computer-science, javascript, css, python, c, shell, html, pdf, flask, nix, server, repl, python3, file-compressor, flask-application, python-server, pdfnet, pdf-compression, reple, online-pdf-compressor, pdfnetpython]
-published: true
-sitemap: true
-pin: false
+cover:
+  image: "assets/img/online-pdf-compression-tool-blog-banner.webp"
+  alt: "Online PDF Compression Tool"
+  caption: "Online PDF Compression Tool"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
+
+images:
+  - assets/img/online-pdf-compression-tool-blog-banner.webp
+  - assets/img/online-pdf-compression-tool-blog-banner.webp
+
+# videos:
+#   - filename01.mov
+#   - filename02.avi
+
+date: 2022-10-04T15:58:26+08:00
+lastmod: 2022-03-04T15:58:26+08:00
+draft: false
+author: "Samir Paul"
+authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
+license: "CC BY 4.0"
+draft: false
+
+# editPost:
+#   URL: "https://github.com/SamirPaul1/blog"
+#   Text: "Suggest Changes" # edit text
+#   appendFilePath: true # to append file path to Edit link
+
 ---
+
 
 
 
@@ -33,7 +53,7 @@ In the backend, using the ```PDFNetPython``` library that file gets reduced and 
 
 
 - Landing Page:
-![Landing Page](/assets/img/filecompressor-samirpaul1-repl-co-landing-page.webp)
+![Landing Page](assets/img/filecompressor-samirpaul1-repl-co-landing-page.webp)
 
 
 ### Flask File Uploading:

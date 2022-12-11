@@ -1,17 +1,36 @@
 ---
-layout: post
-title: Curated List of Project Based Tutorials
-description: Curated List of Project Based Tutorials
-image: 
-  path: /assets/img/curated-list-of-project-based-tutorials-images.webp 
-  width: 792
-  height: 198
-  alt: Curated List of Project Based Tutorials
-categories: [Projects]
+title: "Curated List of Project Based Tutorials"
+summary: Curated List of Project Based Tutorials
+date: 2022-10-04T15:58:26+08:00
+description: "Curated List of Project Based Tutorials"
 tags: [blog, coding, computer-science,projects,tutorials,list-of-project-based-tutorials]
-published: true
-sitemap: true
-pin: false
+cover:
+  image: "assets/img/curated-list-of-project-based-tutorials-images.webp"
+  alt: "Curated List of Project Based Tutorials"
+  caption: "Curated List of Project Based Tutorials"
+  relative: true # To use relative path for cover image, used in hugo Page-bundles
+
+images:
+  - assets/img/curated-list-of-project-based-tutorials-images.webp
+  - assets/img/curated-list-of-project-based-tutorials-images.webp
+
+# videos:
+#   - filename01.mov
+#   - filename02.avi
+
+date: 2022-10-04T15:58:26+08:00
+lastmod: 2022-03-04T15:58:26+08:00
+draft: false
+author: "Samir Paul"
+authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
+license: "CC BY 4.0"
+draft: false
+
+# editPost:
+#   URL: "https://github.com/SamirPaul1/blog"
+#   Text: "Suggest Changes" # edit text
+#   appendFilePath: true # to append file path to Edit link
+
 ---
 
 
