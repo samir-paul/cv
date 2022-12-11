@@ -40,17 +40,17 @@
 <ul>
 <li><input checked="" disabled="" type="checkbox"> Landing Page:</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-landing-page.png" alt="landing-page"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-landing-page.png" alt="landing-page"  />
 </p>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> Upload File</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-step1.png" alt="step1"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-step1.png" alt="step1"  />
 </p>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> Select Action (Compress / De-compress)</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-step2.png" alt="step2"  />
+<p><img loading="lazy" src="text-file-compressor-de-compressor-web-app-step2.png" alt="step2"  />
 </p>
 <ul>
 <li>
@@ -63,26 +63,26 @@
 <p>Compression - Compression Ratio is also displayed</p>
 </li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-step3.png" alt="compression"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-step3.png" alt="compression"  />
 </p>
 <ul>
 <li>De-compression</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-decompression.png" alt="decompression"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-decompression.png" alt="decompression"  />
 </p>
 </li>
 </ul>
 <ul>
 <li>Additional Instructions and Warnings are provided if the above steps are not followed correctly</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-nofile.png" alt="noFile"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-nofile.png" alt="noFile"  />
 </p>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-verysmallfile.png" alt="smallFile"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-verysmallfile.png" alt="smallFile"  />
 </p>
 <ul>
 <li>About the tecnique of Lossless Data Compression with Huffman coding.</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-info.jpeg" alt="info1"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-info.jpeg" alt="info1"  />
 </p>
 ]]></content:encoded>
     </item>

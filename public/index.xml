@@ -5041,13 +5041,13 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
 <p>There is a collection of books and pdfs on various important computer science fundamentals in the <a href="https://github.com/SamirPaul1/DSAlgo/tree/main/BOOKS-and-PDFs"><strong>BOOKS-and-PDFs</strong></a> directory.📚</p>
 </li>
 </ul>
-<p><img loading="lazy" src="assets/img/repository-image-dsalgo-samirpaul1-leetcode-post.jpeg" alt="DSAlgo repo"  title="DSAlgo repository"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/repository-image-dsalgo-samirpaul1-leetcode-post.jpeg" alt="DSAlgo repo"  title="DSAlgo repository"  />
 </p>
 <p>I am continuously trying to improve this repository by adding new questions and concepts related to the respective topic. Please feel free to contribute to this repository.💻</p>
 <div align="center">
 <b>View this repository with improved user experience▶️<a href="https://samirpaul1.github.io/DSAlgo">https://samirpaul.in/DSAlgo</a></b>🚀
 </div>
-<p><img loading="lazy" src="assets/img/samirpaul.in-DSAlgo-demo.png" alt="DSA Online VSCode"  title="DSA Online VSCode"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/samirpaul.in-DSAlgo-demo.png" alt="DSA Online VSCode"  title="DSA Online VSCode"  />
 </p>
 <p><strong>Things you can contribute to:</strong></p>
 <ul>
@@ -16154,7 +16154,7 @@ In the backend, using the <code>PDFNetPython</code> library that file gets reduc
 <iframe title="Video Demo" src="https://user-images.githubusercontent.com/77569653/172896703-9e4998c1-40da-46ae-810e-780e47a391f9.mp4" width="100%" height = "380" autoplay="autoplay" loop="loop" frameborder="0" allowfullscreen></iframe>
 <ul>
 <li>Landing Page:
-<img loading="lazy" src="assets/img/filecompressor-samirpaul1-repl-co-landing-page.webp" alt="Landing Page"  />
+<img loading="lazy" src="https://samirpaulb.github.io/assets/filecompressor-samirpaul1-repl-co-landing-page.webp" alt="Landing Page"  />
 </li>
 </ul>
 <h3 id="flask-file-uploading">Flask File Uploading:</h3>
@@ -20618,17 +20618,17 @@ $$</p>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> Landing Page:</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-landing-page.png" alt="landing-page"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-landing-page.png" alt="landing-page"  />
 </p>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> Upload File</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-step1.png" alt="step1"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-step1.png" alt="step1"  />
 </p>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> Select Action (Compress / De-compress)</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-step2.png" alt="step2"  />
+<p><img loading="lazy" src="text-file-compressor-de-compressor-web-app-step2.png" alt="step2"  />
 </p>
 <ul>
 <li>
@@ -20641,27 +20641,235 @@ $$</p>
 <p>Compression - Compression Ratio is also displayed</p>
 </li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-step3.png" alt="compression"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-step3.png" alt="compression"  />
 </p>
 <ul>
 <li>De-compression</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-decompression.png" alt="decompression"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-decompression.png" alt="decompression"  />
 </p>
 </li>
 </ul>
 <ul>
 <li>Additional Instructions and Warnings are provided if the above steps are not followed correctly</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-nofile.png" alt="noFile"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-nofile.png" alt="noFile"  />
 </p>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-verysmallfile.png" alt="smallFile"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-verysmallfile.png" alt="smallFile"  />
 </p>
 <ul>
 <li>About the tecnique of Lossless Data Compression with Huffman coding.</li>
 </ul>
-<p><img loading="lazy" src="assets/img/text-file-compressor-de-compressor-web-app-info.jpeg" alt="info1"  />
+<p><img loading="lazy" src="https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-info.jpeg" alt="info1"  />
 </p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://samirpaul1.github.io/blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samirpaul1.github.io/blog/about/</guid>
+      <description>About</description>
+      <content:encoded><![CDATA[<p align="center">
+  <a href="#"> <img  alt="Welcome" src="assets/img/welcome.svg"/> </a>
+</p>
+<p style="font-family:Tinos"> I am an undergraduate student at the National Institute of Technology Durgapur. I enjoy problem-solving and coding. Always strive to bring 100% to the work I do. I am passionate about developing complex applications that solve real-world problems impacting millions of users. </p>
+<p align="center"><a class="btn-lang" href="https://samirpaul1.github.io/resume" target = "_blank">Download CV</a></p>
+<hr>
+<p align="center">
+  <a href="#"> <img alt="Education" src="assets/img/education.svg"/> </a>
+</p>
+<blockquote>
+<p><a href="https://nitdgp.ac.in/" target = "_blank"><strong> NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR</strong></a></p>
+</blockquote>
+<p>B.Tech (Electronics and Communication Engineering) <code>Nov 2020 - July 2024</code></p>
+<p style="font-family:Tinos"> • 9/10 CGPA.</p>
+<b> </b>
+<blockquote>
+<p><a href="#"><strong> SILIGURI BARADAKANTA VIDYAPITH</strong></a></p>
+</blockquote>
+<p>WBCHSE &amp; WBBSE <code>2013 - 2020</code></p>
+<p style="font-family:Tinos"> • WBCHSE (Senior Secondary Class XII) 92.00% PCM & Computer Science.</p>
+<p style="font-family:Tinos"> • WBBSE (Secondary Class X) 96.14% General Studies.</p>
+<hr>
+<p align="center">
+  <a href="#"> <img alt="Experience" src="assets/img/experience.svg"/> </a>
+</p>
+<blockquote>
+<p><a href="https://www.amazon.in/" target = "_blank"><strong> AMAZON</strong></a></p>
+</blockquote>
+<p>Machine Learning Trainee <code>Jun 2022 - July 2022</code></p>
+<p style="font-family:Tinos"> • Learned and implemented various concepts of Machine Learning(Supervised-Unsupervised Learning, Neural Networks).</p>
+<b> </b>
+<blockquote>
+<p><a href="http://www.niti.gov.in/" target = "_blank"><strong> NITI AAYOG</strong></a></p>
+</blockquote>
+<p>Data Management and Analytics Intern <code>July 2021 – Oct 2021</code></p>
+<p style="font-family:Tinos"> • Worked with NDAP in the data sourcing workstream. Created and analysed datasets for PSUs and autonomous bodies.</p>
+<p style="font-family:Tinos"> • Used Python NumPy and Pandas in Jupyter notebook to create and visualise PyCharts.</p>
+<p style="font-family:Tinos"> • Worked on SDG Index and analysed the upcoming use of AR-VR in the non-gaming sector in India.</p>
+<b> </b>
+<blockquote>
+<p><a href="https://www.thinkindiaorg.in/" target = "_blank"><strong> THINK INDIA</strong></a></p>
+</blockquote>
+<p>Public Policy Intern <code>Jun 2021 - July 2021</code></p>
+<p style="font-family:Tinos"> • Created reports and blog posts for Think India and worked under the guidance of the Nyaypravah organization.</p>
+<hr>
+<p align="center">
+  <a href="#"> <img alt="Coding Profiles" src="assets/img/coding.svg"/> </a>
+</p>
+<blockquote>
+<p><a href="#"><strong> Coding Profiles</strong></a></p>
+</blockquote>
+<p><b>SamirPaul1</b> across coding platforms.</p>
+<p style="font-family:Tinos" align="center"><strong> <a href="https://github.com/SamirPaul1" target = "_blank"><b>GitHub</b></a> • <a href="https://leetcode.com/samirpaul1" target = "_blank"><b>LeetCode</b></a> • <a href="https://auth.geeksforgeeks.org/user/samirpaul1/" target = "_blank"><b>GeeksforGeeks</b></a> • <a href="https://www.codechef.com/users/samirpaul1" target = "_blank"><b>CodeChef</b></a> • <a href="https://www.hackerrank.com/samirpaul1" target = "_blank"><b>HackerRank</b></a> </strong></p>
+<hr>
+<blockquote>
+<p><a href="#"><strong> Languages And Tools</strong></a></p>
+</blockquote>
+<p align="center">
+<code  >
+<img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
+</code>
+<code >
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
+</code>
+<code >
+<img alt="Java" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/java.png">
+</code>
+<code >
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
+</code>
+<code >
+<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/css.png">
+</code>
+<code >
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/javascript.png" />
+</code>
+<code >
+<img alt="C" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/c.png" />
+</code>
+<code >
+<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
+</code>
+<code >
+<img alt="Git" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/git.png">
+</code>
+<code >
+<img alt="Django" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/django.png">
+</code>
+<code >
+<img alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/react.png">
+</code>
+<code >
+<img alt="Powershell" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/powershell.png">
+</code>
+<code >
+<img alt="Sublime" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/sublime.png">
+</code>
+<code >
+<img alt="VS-Code" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/vscode.png" />
+</code>
+<code >
+<img alt="Intellij" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/intelejidea.png" />
+</code>
+<code >
+<img alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/pycharm.png" />
+</code>
+<code >
+<img alt="Windows" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/windows.png">
+</code>
+<code >
+<img alt="MacOS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/macos.png">
+</code>
+<code>
+<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linux.png">
+</code>
+</p>  
+<hr>
+<p align="center">
+  <a href="#"> <img alt="Projects" src="assets/img/projects.svg"/> </a>
+</p>
+<h3 id="i-classfas-fa-codei-dsalgohttpsgithubcomsamirpaul1dsalgo-github-starshttpsimgshieldsiogithubstarssamirpaul1dsalgostylesocial"><i class="fas fa-code"></i> <a href="https://github.com/SamirPaul1/DSAlgo">DSAlgo</a> <img loading="lazy" src="https://img.shields.io/github/stars/SamirPaul1/DSAlgo?style=social" alt="GitHub Stars"  />
+</h3>
+<p>This repository consists of many problems and their solutions in Python 3 on Data Structures and Algorithms which I have come across while Learning DSA on various competitive programming sites. The Git repo is available: <a href="https://github.com/SamirPaul1/DSAlgo">Here.⇗</a></p>
+<h3 id="i-classfas-fa-codei-portfolio-websitehttpssamirpaul1githubioportfolio"><i class="fas fa-code"></i> <a href="https://samirpaul1.github.io/portfolio">Portfolio Website</a></h3>
+<p>A Project for making a blog website attaching about me, contacts, live-map location-services, send a message, all certificates, fetching all current activities on GitHub for opensource contributions. It is a fully customizable website also. The Git repo is available: <a href="https://github.com/SamirPaul1/portfolio">Here.⇗</a></p>
+<h3 id="i-classfas-fa-codei-music-playerhttpssamirpaul1githubiomusic"><i class="fas fa-code"></i> <a href="https://samirpaul1.github.io/music/">Music Player</a></h3>
+<p>A Music Player App developed using JavaScript, CSS, and HTML. The user can make collection of songs, click the Forward play, Backward play, Playlist loop and Shuffle music buttons to change the songs. The source code is available: <a href="https://github.com/samirpaul1/music">Here.⇗</a></p>
+<h3 id="i-classfas-fa-codei-codeforcesvisualizerhttpssamirpaul1githubiocodeforcesvisualizer"><i class="fas fa-code"></i> <a href="https://samirpaul1.github.io/CodeforcesVisualizer/">CodeforcesVisualizer</a></h3>
+<p>Made a Codeforces Visualizer. Users can input any Username and can see particular user ratings as well as other pieces of information in the form of tables and graphs.(HTML,CSS,Jquery,JS charts,Codeforces API). The Git repo is available: <a href="https://github.com/SamirPaul1/CodeforcesVisualizer">Here.⇗</a></p>
+<h3 id="i-classfas-fa-codei-make-notes-apphttpssamirpaul1githubiomakenotes"><i class="fas fa-code"></i> <a href="https://samirpaul1.github.io/MakeNotes/">Make Notes App</a></h3>
+<p>Users can Make Important Notes as well as save them for future reference. You can mark important as well as non-important which makes it very easy to distinguish between different notes.(Html,Bootstrap,CSS,Javascript). The Git repo is available: <a href="https://github.com/SamirPaul1/MakeNotes">Here.⇗</a></p>
+<h3 id="i-classfas-fa-codei-weather-apphttpssamirpaul1githubioweatherapp"><i class="fas fa-code"></i> <a href="https://samirpaul1.github.io/WeatherApp/">Weather App</a></h3>
+<p>A Weather App that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript, CSS, HTML, Theodinproject, OpenWeatherMap API. The Git repo is available: <a href="https://github.com/SamirPaul1/Weather">Here.⇗</a></p>
+<h3 id="i-classfas-fa-codei-text-file-compressorhttpssamirpaul1githubiotxt-compressor"><i class="fas fa-code"></i> <a href="https://samirpaul1.github.io/txt-compressor/">Text File Compressor</a></h3>
+<p>An online .txt file compressor, de-compressor tool uses Huffman Coding for Lossless Data Compression. An <a href="https://samirpaul1.github.io/txt-compressor/info.html">Info Page</a> is also added about the compression technique and the compression ratio is also displayed. (HTML, CSS, PHP, Javascript). The Git repo is available: <a href="https://github.com/SamirPaul1/txt-compressor">Here.⇗</a></p>
+<h3 id="i-classfas-fa-codei-online-pdf-compressorhttpsgithubcomsamirpaul1filecompressor"><i class="fas fa-code"></i> <a href="https://github.com/SamirPaul1/filecompressor">Online PDF Compressor</a></h3>
+<p>An online PDF file compression tool. Python Flask is used to upload a file to a temporary location on the server then using the PDFNetPython library that file gets reduced and automatically removed after 1 hour. (Python3, Flask, C, Shell, Nix, HTML, CSS, JavaScript). Source code available: <a href="https://github.com/SamirPaul1/filecompressor">Here.⇗</a></p>
+<h3 id="i-classfas-fa-codei-linktree-clonehttpssamirpaul1githubiolink"><i class="fas fa-code"></i> <a href="https://samirpaul1.github.io/link/">Linktree Clone</a></h3>
+<p>A simple webpage to group all profiles on social networks in one place. A clone of popular social media referencing site Linktree, under the MIT license. The website is made responsive (with HTML5 and CSS3). The GitHub repository is available: <a href="https://github.com/SamirPaul1/link">Here.⇗</a></p>
+<hr>
+<p align="center">
+  <a href="#"> <img alt="Certificates" src="assets/img/certificates.svg"/> </a>
+</p>
+<p>✅ Some of my verified skills and certifications:</p>
+<table>
+  <tr>
+    <td><img  alt="certificate" src="assets/img/portfolio-1.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/img/portfolio-2.jpg" width=325 height=250></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td><img  alt="certificate" src="assets/img/portfolio-3.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/img/portfolio-4.jpg" width=325 height=250></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td><img  alt="certificate" src="assets/img/portfolio-5.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/img/portfolio-6.jpg" width=325 height=250></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td><img  alt="certificate" src="assets/img/portfolio-7.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/img/portfolio-8.jpg" width=325 height=250></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td><img  alt="certificate" src="assets/img/portfolio-9.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/img/portfolio-10.jpg" width=325 height=250></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td><img  alt="certificate" src="assets/img/portfolio-11.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/img/portfolio-12.jpg" width=325 height=250></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td><img  alt="certificate" src="assets/img/portfolio-13.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/img/portfolio-14.jpg" width=325 height=250></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td><img  alt="certificate" src="assets/img/portfolio-15.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/img/portfolio-16.jpg" width=325 height=250></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td><img  alt="certificate" src="assets/img/portfolio-17.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/img/portfolio-18.jpg" width=325 height=250></td>
+  </tr>
+ </table>
 ]]></content:encoded>
     </item>
     

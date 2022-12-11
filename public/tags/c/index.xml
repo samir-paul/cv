@@ -716,7 +716,7 @@ In the backend, using the <code>PDFNetPython</code> library that file gets reduc
 <iframe title="Video Demo" src="https://user-images.githubusercontent.com/77569653/172896703-9e4998c1-40da-46ae-810e-780e47a391f9.mp4" width="100%" height = "380" autoplay="autoplay" loop="loop" frameborder="0" allowfullscreen></iframe>
 <ul>
 <li>Landing Page:
-<img loading="lazy" src="assets/img/filecompressor-samirpaul1-repl-co-landing-page.webp" alt="Landing Page"  />
+<img loading="lazy" src="https://samirpaulb.github.io/assets/filecompressor-samirpaul1-repl-co-landing-page.webp" alt="Landing Page"  />
 </li>
 </ul>
 <h3 id="flask-file-uploading">Flask File Uploading:</h3>
