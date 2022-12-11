@@ -8,7 +8,6 @@ cover:
   image: "assets/img/list-of-interview-questions-blog-images.webp"
   alt: "Lists of Technical Interview Questions"
   caption: "Lists of Technical Interview Questions"
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
 images:
   - assets/img/list-of-interview-questions-blog-images.webp

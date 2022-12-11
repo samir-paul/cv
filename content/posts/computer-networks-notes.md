@@ -8,7 +8,6 @@ cover:
   image: "assets/img/computer-networks-preview-blog-banner.webp"
   alt: "Computer Networks Notes"
   caption: "Computer Networks Notes"
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
 images:
   - assets/img/computer-networks-preview-blog-banner.webp

@@ -8,7 +8,6 @@ cover:
   image: "assets/img/Getting-Started-with-System-Design-samirpaulb-assets.webp"
   alt: "System Design Course"
   caption: "System Design Course"
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
 images:
   - assets/img/Getting-Started-with-System-Design-samirpaulb-assets.webp

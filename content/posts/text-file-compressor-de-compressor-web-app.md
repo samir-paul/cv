@@ -8,7 +8,6 @@ cover:
   image: "assets/img/text-file-compressor-de-compressor-web-app-preview.webp"
   alt: "Text File Compressor De-compressor Web App"
   caption: "Text File Compressor De-compressor Web App"
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
 images:
   - assets/img/text-file-compressor-de-compressor-web-app-preview.webp

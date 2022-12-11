@@ -8,7 +8,6 @@ cover:
   image: "assets/img/dsa-in-python.jpg"
   alt: "Data Structures and Algorithms for Coding Interview"
   caption: "Data Structures and Algorithms for Coding Interview"
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
 images:
   - assets/img/dsa-in-python.jpg

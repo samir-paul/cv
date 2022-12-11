@@ -8,7 +8,6 @@ cover:
   image: "assets/img/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp"
   alt: "Leetcode Solutions Cheatsheet"
   caption: "Leetcode Solutions Cheatsheet"
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
 images:
   - assets/img/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp

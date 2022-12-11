@@ -8,7 +8,6 @@ cover:
   image: "assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp"
   alt: "Complete Computer Science Study Plan to Become a Software Engineer"
   caption: "Complete Computer Science Study Plan to Become a Software Engineer"
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
 images:
   - assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp

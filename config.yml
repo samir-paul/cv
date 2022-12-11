@@ -57,14 +57,14 @@ params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
-    # ShowFullTextinRSS: true
+    ShowFullTextinRSS: true
     ShowRssButtonInSectionTermList: true
     hideFooter: true
     ShowToc: true
     TocOpen: false
     hidemeta: false
     comments: false
-    images: ["assets/banner-min.webp"]
+    images: ["assets/banner-min.webp", "https://samirpaulb.github.io/assets/blog-featured-image-samirpaul-in-blog.webp"]
 
     profileMode:
         enabled: false

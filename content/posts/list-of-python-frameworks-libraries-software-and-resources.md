@@ -8,7 +8,6 @@ cover:
   image: "assets/img/list-of-python-frameworks-libraries-software-and-resources-banner-image.jpg"
   alt: "List of Python Frameworks Libraries Software and Resources"
   caption: "List of Python Frameworks Libraries Software and Resources"
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
 images:
   - assets/img/list-of-python-frameworks-libraries-software-and-resources-banner-image.jpg

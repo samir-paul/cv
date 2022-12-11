@@ -8,7 +8,6 @@ cover:
   image: "assets/img/online-pdf-compression-tool-blog-banner.webp"
   alt: "Online PDF Compression Tool"
   caption: "Online PDF Compression Tool"
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
 images:
   - assets/img/online-pdf-compression-tool-blog-banner.webp

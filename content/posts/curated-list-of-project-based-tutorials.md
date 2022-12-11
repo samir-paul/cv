@@ -8,7 +8,6 @@ cover:
   image: "assets/img/curated-list-of-project-based-tutorials-images.webp"
   alt: "Curated List of Project Based Tutorials"
   caption: "Curated List of Project Based Tutorials"
-  relative: true # To use relative path for cover image, used in hugo Page-bundles
 
 images:
   - assets/img/curated-list-of-project-based-tutorials-images.webp
