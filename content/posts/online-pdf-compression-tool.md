@@ -11,7 +11,6 @@ cover:
 
 images:
   - assets/img/online-pdf-compression-tool-blog-banner.webp
-  - assets/img/online-pdf-compression-tool-blog-banner.webp
 
 # videos:
 #   - filename01.mov
