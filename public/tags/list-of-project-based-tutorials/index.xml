@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>list-of-project-based-tutorials on Blog - Samir Paul</title>
+    <link>https://samirpaul1.github.io/blog/tags/list-of-project-based-tutorials/</link>
+    <description>Recent content in list-of-project-based-tutorials on Blog - Samir Paul</description>
+    <image>
+      <url>https://samirpaul1.github.io/blog/assets/banner-min.webp</url>
+      <link>https://samirpaul1.github.io/blog/assets/banner-min.webp</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://samirpaul1.github.io/blog/tags/list-of-project-based-tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curated List of Project Based Tutorials</title>
+      <link>https://samirpaul1.github.io/blog/posts/curated-list-of-project-based-tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samirpaul1.github.io/blog/posts/curated-list-of-project-based-tutorials/</guid>
+      <description>Curated List of Project Based Tutorials</description>
+    </item>
+    
+  </channel>
+</rss>
