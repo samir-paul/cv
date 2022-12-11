@@ -53,7 +53,7 @@ In the backend, using the ```PDFNetPython``` library that file gets reduced and 
 
 
 - Landing Page:
-![Landing Page](assets/img/filecompressor-samirpaul1-repl-co-landing-page.webp)
+![Landing Page](https://samirpaulb.github.io/assets/filecompressor-samirpaul1-repl-co-landing-page.webp)
 
 
 ### Flask File Uploading:

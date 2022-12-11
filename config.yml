@@ -59,7 +59,7 @@ params:
     ShowCodeCopyButtons: true
     ShowFullTextinRSS: true
     ShowRssButtonInSectionTermList: true
-    hideFooter: false
+    hideFooter: true
     ShowToc: true
     TocOpen: false
     hidemeta: false
@@ -82,7 +82,7 @@ params:
     homeInfoParams:
         Title: "Samir Paul"
         Content: >
-            Welcome to my blog!
+            Welcome to my blog! All contents on this site are my own personal opinions/ideas and do not reflect the opinions of my institutions/organizations.
 
     socialIcons:
         - name: GitHub

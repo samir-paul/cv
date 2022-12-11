@@ -65,16 +65,16 @@ draft: false
 
 - [x] Landing Page: 
 
-![landing-page](assets/img/text-file-compressor-de-compressor-web-app-landing-page.png) 
+![landing-page](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-landing-page.png) 
 
 - [x] Upload File
 
-![step1](assets/img/text-file-compressor-de-compressor-web-app-step1.png) 
+![step1](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-step1.png) 
 
 
 - [x] Select Action (Compress / De-compress)
 
-![step2](assets/img/text-file-compressor-de-compressor-web-app-step2.png) 
+![step2](text-file-compressor-de-compressor-web-app-step2.png) 
 
 
 - [x] Wait for File Download
@@ -82,20 +82,20 @@ draft: false
 
     * Compression - Compression Ratio is also displayed 
 
-    ![compression](assets/img/text-file-compressor-de-compressor-web-app-step3.png)
+    ![compression](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-step3.png)
     
     * De-compression
 
-    ![decompression](assets/img/text-file-compressor-de-compressor-web-app-decompression.png)
+    ![decompression](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-decompression.png)
 
 * Additional Instructions and Warnings are provided if the above steps are not followed correctly
 
-![noFile](assets/img/text-file-compressor-de-compressor-web-app-nofile.png) 
+![noFile](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-nofile.png) 
 
-![smallFile](assets/img/text-file-compressor-de-compressor-web-app-verysmallfile.png)
+![smallFile](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-verysmallfile.png)
 
 
 
 * About the tecnique of Lossless Data Compression with Huffman coding.
 
-![info1](assets/img/text-file-compressor-de-compressor-web-app-info.jpeg) 
+![info1](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-info.jpeg) 
