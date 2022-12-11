@@ -57,7 +57,7 @@ params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
-    ShowFullTextinRSS: true
+    # ShowFullTextinRSS: true
     ShowRssButtonInSectionTermList: true
     hideFooter: true
     ShowToc: true
@@ -133,7 +133,7 @@ params:
         hiddenInList: true # hide on list pages and home
         hiddenInSingle: false # hide on single page
         linkFullImages: false
-        image: "assets/blog-featured-image.webp"
+        image: "https://samirpaulb.github.io/assets/blog-featured-image-samirpaul-in-blog.webp"
         alt: "blog-featured-image"
         caption: "Technical blog"
 
