@@ -56,6 +56,60 @@
     </item>
     
     <item>
+      <title>blog</title>
+      <link>https://samirpaul1.github.io/blog/tags/blog/</link>
+      <pubDate>Tue, 04 Oct 2022 15:58:26 +0800</pubDate>
+      
+      <guid>https://samirpaul1.github.io/blog/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coding</title>
+      <link>https://samirpaul1.github.io/blog/tags/coding/</link>
+      <pubDate>Tue, 04 Oct 2022 15:58:26 +0800</pubDate>
+      
+      <guid>https://samirpaul1.github.io/blog/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-science</title>
+      <link>https://samirpaul1.github.io/blog/tags/computer-science/</link>
+      <pubDate>Tue, 04 Oct 2022 15:58:26 +0800</pubDate>
+      
+      <guid>https://samirpaul1.github.io/blog/tags/computer-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>developer</title>
+      <link>https://samirpaul1.github.io/blog/tags/developer/</link>
+      <pubDate>Tue, 04 Oct 2022 15:58:26 +0800</pubDate>
+      
+      <guid>https://samirpaul1.github.io/blog/tags/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software-engineer</title>
+      <link>https://samirpaul1.github.io/blog/tags/software-engineer/</link>
+      <pubDate>Tue, 04 Oct 2022 15:58:26 +0800</pubDate>
+      
+      <guid>https://samirpaul1.github.io/blog/tags/software-engineer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>study-plan</title>
+      <link>https://samirpaul1.github.io/blog/tags/study-plan/</link>
+      <pubDate>Tue, 04 Oct 2022 15:58:26 +0800</pubDate>
+      
+      <guid>https://samirpaul1.github.io/blog/tags/study-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>algorithm</title>
       <link>https://samirpaul1.github.io/blog/tags/algorithm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -173,15 +227,6 @@
     </item>
     
     <item>
-      <title>blog</title>
-      <link>https://samirpaul1.github.io/blog/tags/blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samirpaul1.github.io/blog/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>c</title>
       <link>https://samirpaul1.github.io/blog/tags/c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -254,15 +299,6 @@
     </item>
     
     <item>
-      <title>coding</title>
-      <link>https://samirpaul1.github.io/blog/tags/coding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samirpaul1.github.io/blog/tags/coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>coding-interview</title>
       <link>https://samirpaul1.github.io/blog/tags/coding-interview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -295,15 +331,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://samirpaul1.github.io/blog/tags/computer-networks-notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computer-science</title>
-      <link>https://samirpaul1.github.io/blog/tags/computer-science/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samirpaul1.github.io/blog/tags/computer-science/</guid>
       <description></description>
     </item>
     
@@ -421,15 +448,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://samirpaul1.github.io/blog/tags/design-system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>developer</title>
-      <link>https://samirpaul1.github.io/blog/tags/developer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samirpaul1.github.io/blog/tags/developer/</guid>
       <description></description>
     </item>
     
@@ -1388,15 +1406,6 @@
     </item>
     
     <item>
-      <title>software-engineer</title>
-      <link>https://samirpaul1.github.io/blog/tags/software-engineer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samirpaul1.github.io/blog/tags/software-engineer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sorting-algorithms</title>
       <link>https://samirpaul1.github.io/blog/tags/sorting-algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1447,15 +1456,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://samirpaul1.github.io/blog/tags/string/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>study-plan</title>
-      <link>https://samirpaul1.github.io/blog/tags/study-plan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samirpaul1.github.io/blog/tags/study-plan/</guid>
       <description></description>
     </item>
     
