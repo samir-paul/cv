@@ -73,7 +73,7 @@ draft: false
 
 - [x] Select Action (Compress / De-compress)
 
-![step2](text-file-compressor-de-compressor-web-app-step2.png) 
+![step2](https://samirpaulb.github.io/assets/text-file-compressor-de-compressor-web-app-step2.png) 
 
 
 - [x] Wait for File Download
