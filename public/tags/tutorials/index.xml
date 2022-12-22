@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorials on Blog - Samir Paul</title>
+    <link>https://samirpaul1.github.io/blog/tags/tutorials/</link>
+    <description>Recent content in tutorials on Blog - Samir Paul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 Oct 2022 15:58:26 +0800</lastBuildDate><atom:link href="https://samirpaul1.github.io/blog/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curated List of Project Based Tutorials</title>
+      <link>https://samirpaul1.github.io/blog/posts/curated-list-of-project-based-tutorials/</link>
+      <pubDate>Tue, 04 Oct 2022 15:58:26 +0800</pubDate>
+      
+      <guid>https://samirpaul1.github.io/blog/posts/curated-list-of-project-based-tutorials/</guid>
+      <description>Curated List of Project Based Tutorials</description>
+    </item>
+    
+  </channel>
+</rss>
