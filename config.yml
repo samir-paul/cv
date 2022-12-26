@@ -64,12 +64,12 @@ params:
     TocOpen: false
     hidemeta: false
     comments: false
-    images: ["assets/banner-min.webp", "https://samirpaulb.github.io/assets/blog-featured-image-samirpaul-in-blog.webp"]
+    images: ["https://samirpaulb.github.io/assets/blog-featured-image-samirpaul-in-blog.webp"]
 
     profileMode:
         enabled: true
         title: Samir Paul
-        imageUrl: "assets/samir.webp"
+        imageUrl: "https://samirpaulb.github.io/assets/profile-image-SamirPaul-website.webp"
         imageTitle: Samir Paul
         # imageWidth: 120
         # imageHeight: 120
