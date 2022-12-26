@@ -11,6 +11,7 @@ comments: false
 ShowWordCount: false
 displayFullLangName: false
 ShowBreadCrumbs: false
+author: " "
 
 images:
   - https://samirpaulb.github.io/assets/blog/banner-min.webp
