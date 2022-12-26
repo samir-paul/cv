@@ -1,14 +1,14 @@
 ---
-title: "About"
+title: "About Me"
 layout: "about"
 url: "/about/"
-summary: About
+summary: About Me
 ---
 
 
 
 <p align="center">
-  <a href="#"> <img  alt="Welcome" src="assets/welcome.svg"/> </a>
+  <a href="#"> <img  alt="Welcome" src="https://samirpaulb.github.io/assets/blog/welcome.svg"/> </a>
 </p>
 <p style="font-family:Tinos"> I am an undergraduate student at the National Institute of Technology Durgapur. I enjoy problem-solving and coding. Always strive to bring 100% to the work I do. I am passionate about developing complex applications that solve real-world problems impacting millions of users. </p>
 
@@ -17,7 +17,7 @@ summary: About
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Education" src="assets/education.svg"/> </a>
+  <a href="#"> <img alt="Education" src="https://samirpaulb.github.io/assets/blog/education.svg"/> </a>
 </p>
 
 > <a href="https://nitdgp.ac.in/" target = "_blank"><strong> NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR</strong></a>
@@ -35,7 +35,7 @@ WBCHSE & WBBSE ```2013 - 2020```
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Experience" src="assets/experience.svg"/> </a>
+  <a href="#"> <img alt="Experience" src="https://samirpaulb.github.io/assets/blog/experience.svg"/> </a>
 </p>
 
 > <a href="https://www.amazon.in/" target = "_blank"><strong> AMAZON</strong></a>
@@ -60,7 +60,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Coding Profiles" src="assets/coding.svg"/> </a>
+  <a href="#"> <img alt="Coding Profiles" src="https://samirpaulb.github.io/assets/blog/coding.svg"/> </a>
 </p>
 
 > <a href="#"><strong> Coding Profiles</strong></a>
@@ -74,61 +74,61 @@ Public Policy Intern ```Jun 2021 - July 2021```
 <p align="center">
   
 <code  >
-<img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
+<img alt="Python" width="26px" src="https://samirpaulb.github.io/assets/blog/python.png">
 </code>
 <code >
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
+<img alt="MySQL" width="26px" src="https://samirpaulb.github.io/assets/blog/mysql.png">
 </code>
 <code >
-<img alt="Java" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/java.png">
+<img alt="Java" width="26px" src="https://samirpaulb.github.io/assets/blog/java.png">
 </code>
 <code >
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
+<img alt="HTML5" width="26px" src="https://samirpaulb.github.io/assets/blog/html.png">
 </code>
 <code >
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/css.png">
+<img alt="CSS3" width="26px" src="https://samirpaulb.github.io/assets/blog/css.png">
 </code>
 <code >
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/javascript.png" />
+<img alt="JavaScript" width="26px" src="https://samirpaulb.github.io/assets/blog/javascript.png" />
 </code>
 <code >
-<img alt="C" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/c.png" />
+<img alt="C" width="26px" src="https://samirpaulb.github.io/assets/blog/c.png" />
 </code>
 <code >
-<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
+<img alt="C++" width="26px" src="https://samirpaulb.github.io/assets/blog/cpp.png" />
 </code>
 <code >
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/git.png">
+<img alt="Git" width="26px" src="https://samirpaulb.github.io/assets/blog/git.png">
 </code>
 <code >
-<img alt="Django" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/django.png">
+<img alt="Django" width="26px" src="https://samirpaulb.github.io/assets/blog/django.png">
 </code>
 <code >
-<img alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/react.png">
+<img alt="ReactJS" width="26px" src="https://samirpaulb.github.io/assets/blog/react.png">
 </code>
 <code >
-<img alt="Powershell" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/powershell.png">
+<img alt="Powershell" width="26px" src="https://samirpaulb.github.io/assets/blog/powershell.png">
 </code>
 <code >
-<img alt="Sublime" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/sublime.png">
+<img alt="Sublime" width="26px" src="https://samirpaulb.github.io/assets/blog/sublime.png">
 </code>
 <code >
-<img alt="VS-Code" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/vscode.png" />
+<img alt="VS-Code" width="26px" src="https://samirpaulb.github.io/assets/blog/vscode.png" />
 </code>
 <code >
-<img alt="Intellij" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/intelejidea.png" />
+<img alt="Intellij" width="26px" src="https://samirpaulb.github.io/assets/blog/intelejidea.png" />
 </code>
 <code >
-<img alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/pycharm.png" />
+<img alt="Pycharm" width="26px" src="https://samirpaulb.github.io/assets/blog/pycharm.png" />
 </code>
 <code >
-<img alt="Windows" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/windows.png">
+<img alt="Windows" width="26px" src="https://samirpaulb.github.io/assets/blog/windows.png">
 </code>
 <code >
-<img alt="MacOS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/macos.png">
+<img alt="MacOS" width="26px" src="https://samirpaulb.github.io/assets/blog/macos.png">
 </code>
 <code>
-<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linux.png">
+<img alt="Linux" width="26px" src="https://samirpaulb.github.io/assets/blog/linux.png">
 </code>
 
 </p>  
@@ -136,7 +136,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Projects" src="assets/projects.svg"/> </a>
+  <a href="#"> <img alt="Projects" src="https://samirpaulb.github.io/assets/blog/projects.svg"/> </a>
 </p>
 
 
@@ -187,7 +187,7 @@ A simple webpage to group all profiles on social networks in one place. A clone 
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Certificates" src="assets/certificates.svg"/> </a>
+  <a href="#"> <img alt="Certificates" src="https://samirpaulb.github.io/assets/blog/certificates.svg"/> </a>
 </p>
 
 
@@ -195,64 +195,64 @@ A simple webpage to group all profiles on social networks in one place. A clone 
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/portfolio-1.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/portfolio-2.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-1.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-2.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/portfolio-3.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/portfolio-4.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-3.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-4.jpg" width=325 height=250></td>
   </tr>
  </table>
  
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/portfolio-5.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/portfolio-6.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-5.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-6.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/portfolio-7.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/portfolio-8.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-7.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-8.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/portfolio-9.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/portfolio-10.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-9.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-10.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/portfolio-11.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/portfolio-12.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-11.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-12.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/portfolio-13.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/portfolio-14.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-13.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-14.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/portfolio-15.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/portfolio-16.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-15.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-16.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/portfolio-17.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/portfolio-18.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-17.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-18.jpg" width=325 height=250></td>
   </tr>
  </table>
 
