@@ -24,7 +24,7 @@ editPost:
 ---
 
 
-
+<HTML>
 <h1>
   Hi,&#128075;
   <br>
@@ -238,3 +238,4 @@ editPost:
   </tr>
  </table>
 
+</HTML>
