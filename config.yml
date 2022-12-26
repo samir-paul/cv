@@ -79,11 +79,6 @@ params:
             - name: Blog
               url: archives
 
-    homeInfoParams:
-        Title: "Samir Paul"
-        Content: >
-            Welcome to my blog! All contents on this site are my own personal opinions/ideas and do not reflect the opinions of my institutions/organizations.
-
     socialIcons:
         - name: GitHub
           url: "https://github.com/SamirPaul1"
