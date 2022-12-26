@@ -3,6 +3,15 @@ title: "About Me"
 layout: "about"
 url: "/about/"
 summary: About Me
+ShowShareButtons: false
+ShowReadingTime: false
+ShowToc: false
+ShowPostNavLinks: false
+comments: false
+
+images:
+  - https://samirpaulb.github.io/assets/blog/banner-min.webp
+
 ---
 
 

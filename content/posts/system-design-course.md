@@ -5,13 +5,12 @@ date: 2022-10-04T15:58:26+08:00
 description: "System Design Course"
 tags: [system-design,distributed-systems,hashing,caching,sql,cdn,storage,rest-api,scalability,proxy-server,databases,design-patterns,transactions,sharding,nosql-database,design-system,database-replication,design-interviews,cap-theorem,system-design-interviews,api-gateway,rest,graphql,grpc,message-queues,monoliths,microservices, coding]
 cover:
-  image: "assets/Getting-Started-with-System-Design-samirpaulb-assets.webp"
+  image: "https://samirpaulb.github.io/assets/blog/Getting-Started-with-System-Design-samirpaulb-assets.webp"
   alt: "System Design Course"
   caption: "System Design Course"
 
 images:
-  - assets/Getting-Started-with-System-Design-samirpaulb-assets.webp
-  - assets/Getting-Started-with-System-Design-samirpaulb-assets.webp
+  - https://samirpaulb.github.io/assets/blog/Getting-Started-with-System-Design-samirpaulb-assets.webp
 
 # videos:
 #   - filename01.mov

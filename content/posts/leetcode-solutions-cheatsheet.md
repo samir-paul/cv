@@ -5,13 +5,12 @@ date: 2022-10-04T15:58:26+08:00
 description: "Leetcode Solutions Cheatsheet"
 tags: [blog, coding, computer-science,leetcode,leetcode-solutions,leetcode-solutions-cheetsheet,leetcode-cheetsheet,important-leetcode-solutions-markdown,markdown,important-leetcode-questions,java,python,cpp]
 cover:
-  image: "assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp"
+  image: "https://samirpaulb.github.io/assets/blog/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp"
   alt: "Leetcode Solutions Cheatsheet"
   caption: "Leetcode Solutions Cheatsheet"
 
 images:
-  - assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp
-  - assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp
+  - https://samirpaulb.github.io/assets/blog/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.webp
 
 # videos:
 #   - filename01.mov

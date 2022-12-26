@@ -5,13 +5,13 @@ date: 2022-10-04T15:58:26+08:00
 description: "Computer Networks Notes"
 tags: [blog, coding, computer-science, computer-networks,computer-networks-notes,notes,computernetwork,computernetworking,computer,ipv,icnd,computertechnology,ccna,routingandswitching,networking,osi-model,computernetworkingtechnology]
 cover:
-  image: "assets/computer-networks-preview-blog-banner.webp"
+  image: "https://samirpaulb.github.io/assets/blog/computer-networks-preview-blog-banner.webp"
   alt: "Computer Networks Notes"
   caption: "Computer Networks Notes"
 
 images:
-  - assets/computer-networks-preview-blog-banner.webp
-  - assets/computer-networks-preview-blog-banner.webp
+  - https://samirpaulb.github.io/assets/blog/computer-networks-preview-blog-banner.webp
+  - https://samirpaulb.github.io/assets/blog/computer-networks-preview-blog-banner.webp
 
 # videos:
 #   - filename01.mov
