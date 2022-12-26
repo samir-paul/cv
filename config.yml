@@ -67,17 +67,17 @@ params:
     images: ["assets/banner-min.webp", "https://samirpaulb.github.io/assets/blog-featured-image-samirpaul-in-blog.webp"]
 
     profileMode:
-        enabled: false
+        enabled: true
         title: Samir Paul
-        imageUrl: "#"
-        imageTitle: my image
+        imageUrl: "assets/samir.webp"
+        imageTitle: Samir Paul
         # imageWidth: 120
         # imageHeight: 120
         buttons:
-            - name: Archives
+            - name: About Me
+              url: about
+            - name: Blog
               url: archives
-            - name: Tags
-              url: tags
 
     homeInfoParams:
         Title: "Samir Paul"
@@ -152,11 +152,11 @@ markup:
             unsafe: true
     highlight:
         noClasses: false
-        # anchorLineNos: true
-        # codeFences: true
-        # guessSyntax: true
-        # lineNos: true
-        # style: monokai
+        anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        style: monokai
 
 privacy:
     vimeo:
