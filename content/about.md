@@ -73,63 +73,27 @@ Public Policy Intern ```Jun 2021 - July 2021```
 > <a href="#"><strong> Languages And Tools</strong></a>
 <p align="center">
   
-<code  >
-<img alt="Python" width="26px" src="https://samirpaulb.github.io/assets/blog/python.png">
-</code>
-<code >
-<img alt="MySQL" width="26px" src="https://samirpaulb.github.io/assets/blog/mysql.png">
-</code>
-<code >
-<img alt="Java" width="26px" src="https://samirpaulb.github.io/assets/blog/java.png">
-</code>
-<code >
-<img alt="HTML5" width="26px" src="https://samirpaulb.github.io/assets/blog/html.png">
-</code>
-<code >
-<img alt="CSS3" width="26px" src="https://samirpaulb.github.io/assets/blog/css.png">
-</code>
-<code >
-<img alt="JavaScript" width="26px" src="https://samirpaulb.github.io/assets/blog/javascript.png" />
-</code>
-<code >
-<img alt="C" width="26px" src="https://samirpaulb.github.io/assets/blog/c.png" />
-</code>
-<code >
-<img alt="C++" width="26px" src="https://samirpaulb.github.io/assets/blog/cpp.png" />
-</code>
-<code >
-<img alt="Git" width="26px" src="https://samirpaulb.github.io/assets/blog/git.png">
-</code>
-<code >
-<img alt="Django" width="26px" src="https://samirpaulb.github.io/assets/blog/django.png">
-</code>
-<code >
-<img alt="ReactJS" width="26px" src="https://samirpaulb.github.io/assets/blog/react.png">
-</code>
-<code >
-<img alt="Powershell" width="26px" src="https://samirpaulb.github.io/assets/blog/powershell.png">
-</code>
-<code >
-<img alt="Sublime" width="26px" src="https://samirpaulb.github.io/assets/blog/sublime.png">
-</code>
-<code >
-<img alt="VS-Code" width="26px" src="https://samirpaulb.github.io/assets/blog/vscode.png" />
-</code>
-<code >
-<img alt="Intellij" width="26px" src="https://samirpaulb.github.io/assets/blog/intelejidea.png" />
-</code>
-<code >
-<img alt="Pycharm" width="26px" src="https://samirpaulb.github.io/assets/blog/pycharm.png" />
-</code>
-<code >
-<img alt="Windows" width="26px" src="https://samirpaulb.github.io/assets/blog/windows.png">
-</code>
-<code >
-<img alt="MacOS" width="26px" src="https://samirpaulb.github.io/assets/blog/macos.png">
-</code>
-<code>
-<img alt="Linux" width="26px" src="https://samirpaulb.github.io/assets/blog/linux.png">
-</code>
+  <a href="#"> 
+  <img alt="Python" width="26px" src="https://samirpaulb.github.io/assets/blog/python.png"> 
+  <img alt="MySQL" width="26px" src="https://samirpaulb.github.io/assets/blog/mysql.png">
+  <img alt="Java" width="26px" src="https://samirpaulb.github.io/assets/blog/java.png">
+  <img alt="HTML5" width="26px" src="https://samirpaulb.github.io/assets/blog/html.png">
+  <img alt="CSS3" width="26px" src="https://samirpaulb.github.io/assets/blog/css.png">
+  <img alt="JavaScript" width="26px" src="https://samirpaulb.github.io/assets/blog/javascript.png">
+  <img alt="C" width="26px" src="https://samirpaulb.github.io/assets/blog/c.png">
+  <img alt="C++" width="26px" src="https://samirpaulb.github.io/assets/blog/cpp.png">
+  <img alt="Git" width="26px" src="https://samirpaulb.github.io/assets/blog/git.png">
+  <img alt="Django" width="26px" src="https://samirpaulb.github.io/assets/blog/django.png">
+  <img alt="ReactJS" width="26px" src="https://samirpaulb.github.io/assets/blog/react.png">
+  <img alt="Powershell" width="26px" src="https://samirpaulb.github.io/assets/blog/powershell.png">
+  <img alt="Sublime" width="26px" src="https://samirpaulb.github.io/assets/blog/sublime.png">
+  <img alt="VS-Code" width="26px" src="https://samirpaulb.github.io/assets/blog/vscode.png">
+  <img alt="Intellij" width="26px" src="https://samirpaulb.github.io/assets/blog/intelejidea.png">
+  <img alt="Pycharm" width="26px" src="https://samirpaulb.github.io/assets/blog/pycharm.png">
+  <img alt="Windows" width="26px" src="https://samirpaulb.github.io/assets/blog/windows.png">
+  <img alt="MacOS" width="26px" src="https://samirpaulb.github.io/assets/blog/macos.png">
+  <img alt="Linux" width="26px" src="https://samirpaulb.github.io/assets/blog/linux.png">
+  </a>
 
 </p>  
 
