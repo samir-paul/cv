@@ -1,6 +1,6 @@
-## SamirPaul1/blog
+## SamirPaul1/blog [![Deploy Hugo site to Pages](https://github.com/SamirPaul1/blog/actions/workflows/hugo.yml/badge.svg)](https://github.com/SamirPaul1/blog/actions/workflows/hugo.yml) 
 
-Live Demo: [![Deploy Hugo site to Pages](https://github.com/SamirPaul1/blog/actions/workflows/hugo.yml/badge.svg)](https://github.com/SamirPaul1/blog/actions/workflows/hugo.yml) \
+Live Demo: \
 👉 **https://samirpaul1.github.io/blog** 
 
 
