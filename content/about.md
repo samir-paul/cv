@@ -28,7 +28,10 @@ editPost:
   <a href="#"> <img  alt="Welcome" src="https://samirpaulb.github.io/assets/blog/welcome.svg"/> </a>
 </p>
 
-I am an undergraduate student at the National Institute of Technology, Durgapur. I enjoy problem-solving and coding. I love solving questions on LeetCode and doing competitive programming. I am well-versed in Computer Science fundamentals like OOPS, Operating Systems, Database Management Systems, and Computer Networks and I also have a keen interest in High-Level System Design. I have built a few projects on Web Development using MongoDB, Express, ReactJS and Node.js, and App Development using Dart and Flutter. I am passionate about developing complex applications that solve real-world problems impacting millions of users. I always strive to bring 100% to the work I do.
+<p style="font-family:Tinos"> 
+I am an undergraduate student at the National Institute of Technology, Durgapur. I enjoy problem-solving and coding. 
+I love solving questions on LeetCode and doing competitive programming. I am well-versed in Computer Science fundamentals like OOPS, Operating Systems, Database Management Systems, and Computer Networks and I also have a keen interest in High-Level System Design. I have built a few projects on Web Development using MongoDB, Express, ReactJS and Node.js, and App Development using Dart and Flutter. I am passionate about developing complex applications that solve real-world problems impacting millions of users. I always strive to bring 100% to the work I do.
+</p>
 
 
 <p style="font-family:Consolas"><b>Languages:</b> Python, Java, JavaScript, C, C++, HTML/CSS, Bash </p>
@@ -38,6 +41,8 @@ I am an undergraduate student at the National Institute of Technology, Durgapur.
 <p style="font-family:Consolas"><b>Tools & Technologies:</b> Git, Docker, AWS, GCP, Heroku, JIRA </p>
 
 <p style="font-family:Tinos">Looking for an opportunity to work in a challenging position combining my skills in Software Engineering, which provides professional development, interesting experiences and personal growth.</p>
+
+<p align="center"> <div class="text-center"><button style="border: 2px solid #00aeba; border-radius: 10px; margin:auto;display:block" onclick="window.open('https://samirpaul1.github.io/contact')">Contact Me</button></div> </p>
 
 
 ---
