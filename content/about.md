@@ -28,8 +28,8 @@ editPost:
   <a href="#"> <img  alt="Welcome" src="https://samirpaulb.github.io/assets/blog/welcome.svg"/> </a>
 </p>
 
-<p style="font-family:Tinos">I am an undergraduate student at the National Institute of Technology, Durgapur. I enjoy problem-solving and coding. I love solving questions on LeetCode and doing competitive programming. I am well-versed in Computer Science fundamentals like OOPS, Operating Systems, Database Management Systems, and Computer Networks and I also have a keen interest in High-Level System Design. I have built a few projects on Web Development using MongoDB, Express, ReactJS and Node.js, and App Development using Dart and Flutter. I am passionate about developing complex applications that solve real-world problems impacting millions of users. I always strive to bring 100% to the work I do.
-</p>
+I am an undergraduate student at the National Institute of Technology, Durgapur. I enjoy problem-solving and coding. I love solving questions on LeetCode and doing competitive programming. I am well-versed in Computer Science fundamentals like OOPS, Operating Systems, Database Management Systems, and Computer Networks and I also have a keen interest in High-Level System Design. I have built a few projects on Web Development using MongoDB, Express, ReactJS and Node.js, and App Development using Dart and Flutter. I am passionate about developing complex applications that solve real-world problems impacting millions of users. I always strive to bring 100% to the work I do.
+
 
 <p style="font-family:Consolas"><b>Languages:</b> Python, Java, JavaScript, C, C++, HTML/CSS, Bash </p>
 <p style="font-family:Consolas"><b>Databases:</b> MySQL, PostgreSQL, MongoDB </p>
@@ -167,64 +167,64 @@ A simple webpage to group all profiles on social networks in one place. A clone 
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-1.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-2.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-1.jpg" width=335 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-2.jpg" width=335 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-3.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-4.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-3.jpg" width=335 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-4.jpg" width=335 height=250></td>
   </tr>
  </table>
  
 <table>
   <tr>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-5.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-6.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-5.jpg" width=335 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-6.jpg" width=335 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-7.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-8.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-7.jpg" width=335 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-8.jpg" width=335 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-9.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-10.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-9.jpg" width=335 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-10.jpg" width=335 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-11.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-12.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-11.jpg" width=335 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-12.jpg" width=335 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-13.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-14.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-13.jpg" width=335 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-14.jpg" width=335 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-15.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-16.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-15.jpg" width=335 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-16.jpg" width=335 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-17.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-18.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-17.jpg" width=335 height=250></td>
+    <td><img  alt="certificate" src="https://samirpaulb.github.io/assets/blog/portfolio-18.jpg" width=335 height=250></td>
   </tr>
  </table>
 
