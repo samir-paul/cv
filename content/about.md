@@ -17,8 +17,8 @@ images:
   - https://samirpaulb.github.io/assets/blog/banner-min.webp
 
 editPost:
-    URL: ""
-    Text: "" # edit text
+    URL: " "
+    Text: " " # edit text
     appendFilePath: false # to append file path to Edit link
 
 ---
