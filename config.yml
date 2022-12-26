@@ -116,7 +116,7 @@ params:
 
 
     assets:
-        # disableHLJS: true
+        disableHLJS: true
     #     favicon: "<link / abs url>"
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
@@ -147,7 +147,7 @@ markup:
             unsafe: true
     highlight:
         noClasses: false
-        anchorLineNos: true
+        anchorLineNos: false
         codeFences: true
         guessSyntax: true
         lineNos: true
