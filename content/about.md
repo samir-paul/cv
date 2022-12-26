@@ -8,6 +8,9 @@ ShowReadingTime: false
 ShowToc: false
 ShowPostNavLinks: false
 comments: false
+ShowWordCount: false
+displayFullLangName: false
+ShowBreadCrumbs: false
 
 images:
   - https://samirpaulb.github.io/assets/blog/banner-min.webp
