@@ -5,13 +5,13 @@ date: 2022-10-04T15:58:26+08:00
 description: "Complete Computer Science Study Plan to Become a Software Engineer"
 tags: [blog, coding, computer-science, study-plan, software-engineer, developer]
 cover:
-  image: "assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp"
+  image: "assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp"
   alt: "Complete Computer Science Study Plan to Become a Software Engineer"
   caption: "Complete Computer Science Study Plan to Become a Software Engineer"
 
 images:
-  - assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp
-  - assets/img/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp
+  - assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp
+  - assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.webp
 
 # videos:
 #   - filename01.mov

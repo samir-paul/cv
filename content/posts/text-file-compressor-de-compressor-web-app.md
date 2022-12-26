@@ -5,13 +5,13 @@ date: 2022-10-04T15:58:26+08:00
 description: "Text File Compressor De-compressor Web App"
 tags: [blog, coding, computer-science, javascript, project, css, html, encoding, encoder, huffman, huffman-coding, huffman-compression-algorithm, txt, lossless-compression-algorithm, file-compression, huffman-encoder, huffman-decoder, huffman-encoding, txt-encode, txt-decode, lossless-compression, github, projects, web-development, lossless-data-compression, online-file-compressor, txt-compressor, algorithm]
 cover:
-  image: "assets/img/text-file-compressor-de-compressor-web-app-preview.webp"
+  image: "assets/text-file-compressor-de-compressor-web-app-preview.webp"
   alt: "Text File Compressor De-compressor Web App"
   caption: "Text File Compressor De-compressor Web App"
 
 images:
-  - assets/img/text-file-compressor-de-compressor-web-app-preview.webp
-  - assets/img/text-file-compressor-de-compressor-web-app-preview.webp
+  - assets/text-file-compressor-de-compressor-web-app-preview.webp
+  - assets/text-file-compressor-de-compressor-web-app-preview.webp
 
 # videos:
 #   - filename01.mov

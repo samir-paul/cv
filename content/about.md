@@ -8,7 +8,7 @@ summary: About
 
 
 <p align="center">
-  <a href="#"> <img  alt="Welcome" src="assets/img/welcome.svg"/> </a>
+  <a href="#"> <img  alt="Welcome" src="assets/welcome.svg"/> </a>
 </p>
 <p style="font-family:Tinos"> I am an undergraduate student at the National Institute of Technology Durgapur. I enjoy problem-solving and coding. Always strive to bring 100% to the work I do. I am passionate about developing complex applications that solve real-world problems impacting millions of users. </p>
 
@@ -17,7 +17,7 @@ summary: About
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Education" src="assets/img/education.svg"/> </a>
+  <a href="#"> <img alt="Education" src="assets/education.svg"/> </a>
 </p>
 
 > <a href="https://nitdgp.ac.in/" target = "_blank"><strong> NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR</strong></a>
@@ -35,7 +35,7 @@ WBCHSE & WBBSE ```2013 - 2020```
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Experience" src="assets/img/experience.svg"/> </a>
+  <a href="#"> <img alt="Experience" src="assets/experience.svg"/> </a>
 </p>
 
 > <a href="https://www.amazon.in/" target = "_blank"><strong> AMAZON</strong></a>
@@ -60,7 +60,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Coding Profiles" src="assets/img/coding.svg"/> </a>
+  <a href="#"> <img alt="Coding Profiles" src="assets/coding.svg"/> </a>
 </p>
 
 > <a href="#"><strong> Coding Profiles</strong></a>
@@ -136,7 +136,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Projects" src="assets/img/projects.svg"/> </a>
+  <a href="#"> <img alt="Projects" src="assets/projects.svg"/> </a>
 </p>
 
 
@@ -187,7 +187,7 @@ A simple webpage to group all profiles on social networks in one place. A clone 
 ---
 
 <p align="center">
-  <a href="#"> <img alt="Certificates" src="assets/img/certificates.svg"/> </a>
+  <a href="#"> <img alt="Certificates" src="assets/certificates.svg"/> </a>
 </p>
 
 
@@ -195,64 +195,64 @@ A simple webpage to group all profiles on social networks in one place. A clone 
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/img/portfolio-1.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/img/portfolio-2.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-1.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-2.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/img/portfolio-3.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/img/portfolio-4.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-3.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-4.jpg" width=325 height=250></td>
   </tr>
  </table>
  
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/img/portfolio-5.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/img/portfolio-6.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-5.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-6.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/img/portfolio-7.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/img/portfolio-8.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-7.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-8.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/img/portfolio-9.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/img/portfolio-10.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-9.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-10.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/img/portfolio-11.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/img/portfolio-12.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-11.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-12.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/img/portfolio-13.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/img/portfolio-14.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-13.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-14.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/img/portfolio-15.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/img/portfolio-16.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-15.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-16.jpg" width=325 height=250></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img  alt="certificate" src="assets/img/portfolio-17.jpg" width=325 height=250></td>
-    <td><img  alt="certificate" src="assets/img/portfolio-18.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-17.jpg" width=325 height=250></td>
+    <td><img  alt="certificate" src="assets/portfolio-18.jpg" width=325 height=250></td>
   </tr>
  </table>
 
