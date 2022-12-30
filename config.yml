@@ -113,6 +113,8 @@ params:
             SiteVerificationTag: "fe6a06c57be84984"
         pinterest:
             SiteVerificationTag: "24bac6e1fbf1750de40d59bb788d9dd9"
+        norton:
+            SiteVerificationTag: "2xno70lnqo1ajcykeat10qud6lat0xlkc2bskxz0k9ma74g0bn-kprra5ev6bwui2s6-2394l0ryopjet7yt3hs8tokilug2cfhocw3r0nlj2t1xx690tgu82t59wtwi"
 
 
     assets:
