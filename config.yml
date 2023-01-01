@@ -69,6 +69,7 @@ params:
     profileMode:
         enabled: true
         title: Samir Paul
+        subtitle: "Tools and technology expires fast, but the experience remains."
         imageUrl: "https://samirpaulb.github.io/assets/profile-image-SamirPaul-website.webp"
         imageTitle: Samir Paul
         # imageWidth: 120
