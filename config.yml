@@ -69,7 +69,7 @@ params:
     profileMode:
         enabled: true
         title: Samir Paul
-        subtitle: <a href="#"><img  alt="Welcome" src="/assets/img/welcome.svg" width="345px" height="29px" loading="lazy" /></a>
+        subtitle: <a href="#"><img  alt="Welcome" src="https://samirpaulb.github.io/assets/samirpaul-blog-welcome.svg" width="345px" height="29px" loading="lazy" /></a>
         imageUrl: "https://samirpaulb.github.io/assets/profile-image-SamirPaul-website.webp"
         imageTitle: Samir Paul
         # imageWidth: 120
