@@ -104,7 +104,7 @@ Public Policy Intern ```Jun 2021 - July 2021```
  <a href="#"><strong> Languages And Tools</strong></a>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,js,html,css,mysql,mongodb,django,react,flask,git,docker,powershell,vscode,idea,vim,linux" />
+    <img src="https://samirpaulb.github.io/assets/python-java-cpp-c-php-js-html-css-mysql-mongodb-django-react-git-docker-linux.svg" />
   </a>
 </p>
 
