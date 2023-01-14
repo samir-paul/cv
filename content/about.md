@@ -103,12 +103,10 @@ Public Policy Intern ```Jun 2021 - July 2021```
 
  <a href="#"><strong> Languages And Tools</strong></a>
 <p align="center">
-  
-  <a href="#"> 
-  <img alt="languages-and-tools" width="100%" src="https://samirpaulb.github.io/assets/languages-and-tools-samirpaul1.png">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,js,html,css,mysql,mongodb,django,react,flask,git,docker,powershell,vscode,idea,vim,linux" />
   </a>
-
-</p>  
+</p>
 
 ---
 
